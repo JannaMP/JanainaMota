@@ -13,7 +13,7 @@
  </div> 
  
  <div align="center">
-<img width="70%" height="70%"  src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
+<img width="70%" height="70%"  src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 </div>
         
  

@@ -1,4 +1,4 @@
-# Olá, me chamo Janaina Mota e seja bem vindo (a) ao meu perfil!
+# Olá, me chamo Janaina Mota :) Seja bem vindo (a) ao meu perfil!
 
 📚 Estudante de tecnologia com foco em desenvolvimento de sistemas.
 

@@ -1,6 +1,6 @@
 # Olá, me chamo Janaina Mota :) Seja bem vindo (a) ao meu perfil!
 
-📚 Estudante de Desenvolvimento de Sistema, cursando Análise e Desenvolvimento de Sistemas na Estácio e Desenvolvimento Full Stack pelo Senai.
+📚 Estudante de Desenvolvimento de Sistemas, cursando Análise e Desenvolvimento de Sistemas na Estácio e Desenvolvimento Full Stack pelo Senai.
 
 🎓 Recentemente formada em Web Desenvolvimento Java.
 

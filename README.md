@@ -2,7 +2,7 @@
 
 📚 Estudante de tecnologia com foco em desenvolvimento de sistemas.
 
-🔭 Recentemente formada em web desenvolvimento Java, cursando Análise e Desenvolvimento de Sistemas na Estácio e Desenvolvimento Full Stack pelo Senai.
+🎓 Recentemente formada em web desenvolvimento Java, cursando Análise e Desenvolvimento de Sistemas na Estácio e Desenvolvimento Full Stack pelo Senai.
 
 😄 Pronomes: Ela/Dela.
 

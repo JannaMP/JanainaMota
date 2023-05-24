@@ -2,7 +2,7 @@
 
 📚 Estudante de Desenvolvimento de Sistemas, cursando Análise e Desenvolvimento de Sistemas na Estácio e Desenvolvimento Full Stack pelo Senai.
 
-🎓 Recentemente formada em Web Desenvolvimento Java.
+🎓 Recentemente formada em Web Desenvolvimento Java. pelo Senac.
 
 😄 Pronomes: Ela/Dela.
 

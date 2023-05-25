@@ -22,7 +22,7 @@
 <img width="80%" height="50%"  src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 </div>
  <br>   
-![Snake animation](https://github.com/JanainaMota/JanainaMota/blob/output/github-contribution-grid-snake.svg)
+
 
   
           
